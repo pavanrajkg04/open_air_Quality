@@ -1,22 +1,62 @@
 {
-    "412": "Peenya, Bengaluru - KSPCB",
-    "594": "BTM Layout, Bengaluru - KSPCB",
-    "797": "City Railway Station - KSPCB",
-    "2589": "SaneguravaHalli - KSPCB",
-    "2592": "BWSSB Kadabesanahalli, Bengaluru - KSPCB",
-    "5547": "BWSSB Kadabesanahalli, Bengaluru - CPCB",
-    "5548": "BTM Layout, Bengaluru - CPCB",
-    "5574": "City Railway Station, Bengaluru - KSPCB",
-    "5607": "Peenya, Bengaluru - CPCB",
-    "5644": "Sanegurava Halli, Bengaluru - KSPCB",
-    "6973": "Jayanagar 5th Block, Bengaluru - KSPCB",
-    "6974": "Bapuji Nagar, Bengaluru - KSPCB",
-    "6975": "Silk Board, Bengaluru - KSPCB",
-    "6983": "Hombegowda Nagar, Bengaluru - KSPCB",
-    "6984": "Hebbal, Bengaluru - KSPCB",
-    "10909": "Vijay Nagar, Ramanagara - KSPCB",
-    "229473": "blore_India_07_14_official",
-    "358454": "SIPCOT Phase-1, Hosur - TNPCB",
-    "2498781": "SiriJaya",
-    "2943407": "PFR"
+    "412": [
+        "Peenya, Bengaluru - KSPCB"
+    ],
+    "594": [
+        "BTM Layout, Bengaluru - KSPCB"
+    ],
+    "797": [
+        "City Railway Station - KSPCB"
+    ],
+    "2589": [
+        "SaneguravaHalli - KSPCB"
+    ],
+    "2592": [
+        "BWSSB Kadabesanahalli, Bengaluru - KSPCB"
+    ],
+    "5547": [
+        "BWSSB Kadabesanahalli, Bengaluru - CPCB"
+    ],
+    "5548": [
+        "BTM Layout, Bengaluru - CPCB"
+    ],
+    "5574": [
+        "City Railway Station, Bengaluru - KSPCB"
+    ],
+    "5607": [
+        "Peenya, Bengaluru - CPCB"
+    ],
+    "5644": [
+        "Sanegurava Halli, Bengaluru - KSPCB"
+    ],
+    "6973": [
+        "Jayanagar 5th Block, Bengaluru - KSPCB"
+    ],
+    "6974": [
+        "Bapuji Nagar, Bengaluru - KSPCB"
+    ],
+    "6975": [
+        "Silk Board, Bengaluru - KSPCB"
+    ],
+    "6983": [
+        "Hombegowda Nagar, Bengaluru - KSPCB"
+    ],
+    "6984": [
+        "Hebbal, Bengaluru - KSPCB"
+    ],
+    "10909": [
+        "Vijay Nagar, Ramanagara - KSPCB"
+    ],
+    "229473": [
+        "blore_India_07_14_official"
+    ],
+    "358454": [
+        "SIPCOT Phase-1, Hosur - TNPCB"
+    ],
+    "2498781": [
+        "SiriJaya"
+    ],
+    "2943407": [
+        "PFR"
+    ]
 }
